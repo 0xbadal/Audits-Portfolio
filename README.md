@@ -1,0 +1,34 @@
+# Auditing Portfolio
+
+## About Me
+
+### 0xbadal | Security Researcher
+
+Independent Web3 Security Researcher focused on securing DeFi.
+
+🛠️ Technical Expertise
+
+- Languages: Solidity, Rust (Basic)
+
+### 🌐 Profiles
+
+- [Sherlock (0xbadal)](https://audits.sherlock.xyz/watson/farismaulana)
+- [HakenProff (0xbadal)](https://hackenproof.com/hackers/0xbadal)
+- [Cantina (0xbadal)](https://cantina.xyz/u/Cipher09)
+
+### Public Contest History
+
+
+<details>
+<summary><strong>Public Contests</strong></summary>
+
+| Protocol | Findings | Report |
+| --- | --- | --- |
+| [Rain contract](https://dashboard.hackenproof.com/user/programs/rain-smart-contract-audit-contest) | 1C 4H 1L | [📄](not public) |
+| [USG Tangent](https://audits.sherlock.xyz/contests/1073) | 1M | [📄](https://audits.sherlock.xyz/contests/1073) |
+| [Symmio, Staking and Vesting](https://audits.sherlock.xyz/contests/838) | 1M | — |
+| [avon-monorepo](https://cantina.xyz/code/708eecf5-a6a0-46c1-a949-277f7408decc) | 1M 1I | [📄](https://cantina.xyz/code/708eecf5-a6a0-46c1-a949-277f7408decc/README.md) |
+
+</details>   
+
+*Early career training contests focused on fundamental security concepts.*
