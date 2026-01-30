@@ -28,6 +28,7 @@ Independent Web3 Security Researcher focused on securing DeFi.
 | [USG Tangent](https://audits.sherlock.xyz/contests/1073) | 1M | [📄](https://audits.sherlock.xyz/contests/1073) |
 | [Symmio, Staking and Vesting](https://audits.sherlock.xyz/contests/838) | 1M | — |
 | [avon-monorepo](https://cantina.xyz/code/708eecf5-a6a0-46c1-a949-277f7408decc) | 1M 1I | [📄](https://cantina.xyz/code/708eecf5-a6a0-46c1-a949-277f7408decc/README.md) |
+| [Alignerz protocol] (https://github.com/dualguard/2025-11-judging-alignerz/tree/main/results/valid/highs) | 1M 1L |  [📄](https://github.com/dualguard/2025-11-judging-alignerz/tree/main/results/valid/highs)
 
 </details>   
 
